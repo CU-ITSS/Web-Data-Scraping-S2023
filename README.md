@@ -1,9 +1,9 @@
 # Web Data Scraping
 
-[Spring 2023 ITSS Mini-Course](https://www.colorado.edu/cartss/programs/interdisciplinary-training-social-sciences-itss/mini-course-web-data-scraping) — ARSC 5040  
-[Brian C. Keegan, Ph.D.](http://brianckeegan.com/)  
-[Assistant Professor, Department of Information Science](https://www.colorado.edu/cmci/people/information-science/brian-c-keegan)  
-University of Colorado Boulder  
+[Spring 2023 ITSS Mini-Course](https://www.colorado.edu/cartss/mini-course-web-data-scraping-spring-2023) — ARSC 5040
+[Brian C. Keegan, Ph.D.](http://brianckeegan.com/)
+[Assistant Professor, Department of Information Science](https://www.colorado.edu/cmci/people/information-science/brian-c-keegan)
+University of Colorado Boulder
 
 Copyright and distributed under an [MIT License](https://opensource.org/licenses/MIT)
 
@@ -36,6 +36,6 @@ To be determined based on enrollments, distribution of skills, *etc*. but will p
 
 ## Acknowledgements
 
-This course will draw on resources built by myself and [Allison Morgan](https://allisonmorgan.github.io/) for the [2018 Summer Institute for Computational Social Science](https://github.com/allisonmorgan/sicss_boulder), which were in turn derived from [other resources](https://github.com/simonmunzert/web-scraping-with-r-extended-edition) developed by [Simon Munzert](http://simonmunzert.github.io/) and [Chris Bail](http://www.chrisbail.net/). 
+This course will draw on resources built by myself and [Allison Morgan](https://allisonmorgan.github.io/) for the [2018 Summer Institute for Computational Social Science](https://github.com/allisonmorgan/sicss_boulder), which were in turn derived from [other resources](https://github.com/simonmunzert/web-scraping-with-r-extended-edition) developed by [Simon Munzert](http://simonmunzert.github.io/) and [Chris Bail](http://www.chrisbail.net/).
 
 Thank you also to Professor [Terra KcKinnish](https://www.colorado.edu/economics/people/faculty/terra-mckinnish) for coordinating the ITSS seminars.
