@@ -1,8 +1,8 @@
 # Web Data Scraping
 
-[Spring 2023 ITSS Mini-Course](https://www.colorado.edu/cartss/mini-course-web-data-scraping-spring-2023) — ARSC 5040
-[Brian C. Keegan, Ph.D.](http://brianckeegan.com/)
-[Assistant Professor, Department of Information Science](https://www.colorado.edu/cmci/people/information-science/brian-c-keegan)
+[Spring 2023 ITSS Mini-Course](https://www.colorado.edu/cartss/mini-course-web-data-scraping-spring-2023) — ARSC 5040  
+[Brian C. Keegan, Ph.D.](http://brianckeegan.com/)  
+[Assistant Professor, Department of Information Science](https://www.colorado.edu/cmci/people/information-science/brian-c-keegan)  
 University of Colorado Boulder
 
 Copyright and distributed under an [MIT License](https://opensource.org/licenses/MIT)
